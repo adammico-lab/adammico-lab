@@ -17,13 +17,13 @@ DATA ──→ DESIGN ──→ BUILD ──→ REVIEW ──→ DOCUMENT ──
 | Stage | Tool | What it does |
 |-------|------|-------------|
 | **Data** | [Hyper Synthetic Forge](https://github.com/adammico-lab/hyper-synthetic-forge) | Generate realistic synthetic datasets from schemas, profiles, or plain-language descriptions |
-| **Data** | [Data Quality Sentinel](https://github.com/adammico-lab/tableau-data-quality-sentinel) | Profile datasources for naming violations, type mismatches, metadata gaps, and schema hygiene |
-| **Design** | [Dashboard Blueprint](https://github.com/adammico-lab/tableau-dashboard-blueprint) | Recommend chart types, layout, filters, colors, and interaction design before you build |
-| **Design** | [Pulse Blueprint](https://github.com/adammico-lab/pulse-blueprint) | Design, audit, and optimize Tableau Pulse metric definitions |
-| **Build** | [Calc Engine](https://github.com/adammico-lab/tableau-calc-engine) | Write, debug, translate, and optimize calculated fields (LODs, table calcs, sets, parameters) |
+| **Data** | [Data Quality Sentinel](https://github.com/adammico-lab/Tableau-Data-Quality-Sentinel-BETA) | Profile datasources for naming violations, type mismatches, metadata gaps, and schema hygiene |
+| **Design** | [Tableau Dashboard Blueprint](https://github.com/adammico-lab/Tableau-Dashboard-Blueprint-BETA) | Recommend chart types, layout, filters, colors, and interaction design before you build |
+| **Design** | [Pulse Blueprint](https://github.com/adammico-lab/Pulse-Blueprint-BETA) | Design, audit, and optimize Tableau Pulse metric definitions |
+| **Build** | [Calc Engine](https://github.com/adammico-lab/Tableau-Calc-Engine-BETA) | Write, debug, translate, and optimize calculated fields (LODs, table calcs, sets, parameters) |
 | **Review** | [VizCritique Pro](https://github.com/adammico-lab/vizcritique-pro) | Score dashboards across seven domains with prioritized, actionable recommendations |
-| **Document** | [Tableau Scribe](https://github.com/adammico-lab/tableau-scribe) | Auto-generate dashboard documentation and metric dictionaries from live content |
-| **Govern** | [Governance Scanner](https://github.com/adammico-lab/tableau-governance-scanner) | Audit a Tableau site for stale content, naming violations, uncertified sources, and hygiene gaps |
+| **Document** | [Tableau Scribe](https://github.com/adammico-lab/Tableau-Scribe-BETA) | Auto-generate dashboard documentation and metric dictionaries from live content |
+| **Govern** | [Governance Scanner](https://github.com/adammico-lab/Tableau-Governance-Scanner-BETA) | Audit a Tableau site for stale content, naming violations, uncertified sources, and hygiene gaps |
 
 ---
 
