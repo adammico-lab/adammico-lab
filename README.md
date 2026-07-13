@@ -107,7 +107,7 @@ No tool writes back to your Tableau environment. All processing happens locally 
 
 ## About
 
-I'm Adam Mico. I'm a Director of Product Management at Salesforce working in the Data Cloud organization. I've been part of the Tableau community since 2010, was a Tableau Visionary, and I co-led the Dallas Tableau User Group for about a decade. I build these tools because I use them myself and because I think agentic workflows are the next step for analytics practitioners.
+I'm Adam Mico. I'm a Director of Product Management at Salesforce working in the Data Cloud organization for the CCO. I've been part of the Tableau community since 2019, was a Tableau Visionary and Ambassador, and I co-led and co-found the AI and Tableau User Group for until March 2026. I build these tools because I use them myself and because I think agentic workflows are the next step for analytics practitioners.
 
 Questions, feedback, or ideas: open an issue in any repository or connect with me on [LinkedIn](https://www.linkedin.com/in/adammico/).
 
