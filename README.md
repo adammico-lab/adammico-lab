@@ -65,9 +65,9 @@ DATA ──→ DESIGN ──→ BUILD ──→ REVIEW ──→ DOCUMENT ──
 | Hyper Synthetic Forge | Public Beta | v3.0 |
 | Calc Engine | Public Beta | v1.1 |
 | Dashboard Blueprint | Public Beta | v1.1 |
-| Governance Scanner | Public Beta | v1.1 |
+| Governance Scanner | Public Beta | v2.0 |
 | Tableau Scribe | Public Beta | v1.0 |
-| Data Quality Sentinel | Public Beta | v2.0 |
+| Data Quality Sentinel | Public Beta | v3.1 |
 | Pulse Blueprint | Public Beta | v2.1 |
 
 All tools are functional and actively used, but APIs, scoring methodologies, and output formats may evolve based on feedback.
