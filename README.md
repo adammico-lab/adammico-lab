@@ -2,7 +2,7 @@
 
 A collection of Claude skills built around Tableau MCP to help practitioners design dashboards, author calculations, generate synthetic data, evaluate visualizations, document analytics assets, and improve governance.
 
-I've spent over fifteen years building Tableau content and helping teams get better at it. These tools represent what I kept wishing existed: structured, repeatable approaches to the parts of the workflow that eat up time or fall through the cracks.
+I've spent over a decade building Tableau content and helping teams get better at it. These tools represent what I kept wishing existed: structured, repeatable approaches to the parts of the workflow that eat up time or fall through the cracks.
 
 Each skill runs inside Claude Desktop with Tableau MCP connected. You describe what you need in natural language, and the skill handles the methodology, API calls, and output formatting.
 
